@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-08T18:46:22 IST" name="Suite" finished-at="2024-03-08T18:47:05 IST" duration-ms="42767">
+    <groups>
+    </groups>
+    <test started-at="2024-03-08T18:46:22 IST" name="Test" finished-at="2024-03-08T18:47:05 IST" duration-ms="42767">
+      <class name="testsuite.MainTest">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:testsuite.MainTest@304bb45b]" started-at="2024-03-08T18:46:22 IST" name="launchApp" finished-at="2024-03-08T18:46:33 IST" duration-ms="10927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="searchInput()[pri:1, instance:testsuite.MainTest@304bb45b]" started-at="2024-03-08T18:46:33 IST" name="searchInput" finished-at="2024-03-08T18:46:41 IST" duration-ms="7987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInput -->
+        <test-method signature="tapOnFilter()[pri:2, instance:testsuite.MainTest@304bb45b]" started-at="2024-03-08T18:46:41 IST" name="tapOnFilter" finished-at="2024-03-08T18:46:47 IST" duration-ms="5370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tapOnFilter -->
+        <test-method signature="getList()[pri:3, instance:testsuite.MainTest@304bb45b]" started-at="2024-03-08T18:46:47 IST" name="getList" finished-at="2024-03-08T18:46:54 IST" duration-ms="7490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getList -->
+        <test-method signature="clickOnProduct()[pri:4, instance:testsuite.MainTest@304bb45b]" started-at="2024-03-08T18:46:54 IST" name="clickOnProduct" finished-at="2024-03-08T18:46:57 IST" duration-ms="2840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnProduct -->
+        <test-method signature="clickBuyAndSignIn()[pri:5, instance:testsuite.MainTest@304bb45b]" started-at="2024-03-08T18:46:57 IST" name="clickBuyAndSignIn" finished-at="2024-03-08T18:47:05 IST" duration-ms="7421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBuyAndSignIn -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:testsuite.MainTest@304bb45b]" started-at="2024-03-08T18:47:05 IST" name="closeApp" finished-at="2024-03-08T18:47:05 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testsuite.MainTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

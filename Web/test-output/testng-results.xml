@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-08T18:45:59 IST" name="Suite" finished-at="2024-03-08T18:48:34 IST" duration-ms="155381">
+    <groups>
+    </groups>
+    <test started-at="2024-03-08T18:45:59 IST" name="Test" finished-at="2024-03-08T18:48:34 IST" duration-ms="155381">
+      <class name="testSuite.MainTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testSuite.MainTest@7674f035]" started-at="2024-03-08T18:45:59 IST" name="launchBrowser" finished-at="2024-03-08T18:46:58 IST" duration-ms="59327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="searchBox(java.lang.String)[pri:1, instance:testSuite.MainTest@7674f035]" started-at="2024-03-08T18:46:58 IST" name="searchBox" finished-at="2024-03-08T18:47:24 IST" duration-ms="25683" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ipad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBox -->
+        <test-method signature="filterPrice()[pri:2, instance:testSuite.MainTest@7674f035]" started-at="2024-03-08T18:47:24 IST" name="filterPrice" finished-at="2024-03-08T18:48:04 IST" duration-ms="40001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterPrice -->
+        <test-method signature="getResult()[pri:3, instance:testSuite.MainTest@7674f035]" started-at="2024-03-08T18:48:04 IST" name="getResult" finished-at="2024-03-08T18:48:34 IST" duration-ms="29644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testSuite.MainTest@7674f035]" started-at="2024-03-08T18:48:34 IST" name="closeBrowser" finished-at="2024-03-08T18:48:34 IST" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testSuite.MainTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

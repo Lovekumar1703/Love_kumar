@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-12T10:58:08 IST" name="Default suite" finished-at="2024-03-12T10:58:13 IST" duration-ms="5134">
+    <groups>
+    </groups>
+    <test started-at="2024-03-12T10:58:08 IST" name="Default test" finished-at="2024-03-12T10:58:13 IST" duration-ms="5134">
+      <class name="api_Deserial.Response_parser">
+        <test-method signature="resposeParserJson()[pri:1, instance:api_Deserial.Response_parser@35aea049]" started-at="2024-03-12T10:58:08 IST" name="resposeParserJson" finished-at="2024-03-12T10:58:13 IST" duration-ms="4473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resposeParserJson -->
+        <test-method signature="resposeParserPojo()[pri:2, instance:api_Deserial.Response_parser@35aea049]" started-at="2024-03-12T10:58:13 IST" name="resposeParserPojo" finished-at="2024-03-12T10:58:13 IST" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resposeParserPojo -->
+      </class> <!-- api_Deserial.Response_parser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
